@@ -30,5 +30,5 @@ int main(int argc, char **argv)
   init();
   glutDisplayFunc(setPixel);
   glutMainLoop();
-  return 0;
+  return 0:
 }
