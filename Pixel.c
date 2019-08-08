@@ -1,3 +1,5 @@
+
+//<filename>.c -lglu -lgl -lGLUT
 #include<GL/glut.h>
 #include<GL/gl.h>
 
