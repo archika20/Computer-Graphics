@@ -10,7 +10,6 @@ void init(void)
 
 void setPixel(void)
 {
-  int x1=0,y1=0,x,y,r=20,i;
   glClear(GL_COLOR_BUFFER_BIT);
   glPointSize(2.0);
   glBegin(GL_POINTS);
