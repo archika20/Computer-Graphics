@@ -10,7 +10,9 @@ void init(void)
 
 void setDDA(void)
 {
-  int x1=0,y1=0,x2=10,y2=10,i,length=0;
+  int x1,y1,x2,y2,i,length=0;
+  x1=y1=0;
+  x2=y2=10;
   int dx=x2-x1;
   int dy=y2-y1;
   
